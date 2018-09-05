@@ -139,6 +139,7 @@ The raw data is in ANALYZE 7.5 format or NIFTI format. The mprage images of the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Raw MRI brain data in this project is licensed under the [INDI(International Neuroimaging Data-sharing Intiative)](http://fcon_1000.projects.nitrc.org/) sharing scheme and [OASIS](https://www.oasis-brains.org/) sharing scheme.
 
 ## Acknowledgments
 

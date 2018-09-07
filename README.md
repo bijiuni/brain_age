@@ -133,7 +133,7 @@ The raw data is in ANALYZE 7.5 format or NIFTI format. The mprage images of the 
 
 ## Authors
 
-* **Zach Lyu** - *Initial work* - [bijiuni](https://github.com/bijiuni)
+* **Zach Lyu** -  [bijiuni](https://github.com/bijiuni)
 
 
 ## License

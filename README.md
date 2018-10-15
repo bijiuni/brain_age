@@ -102,6 +102,7 @@ The four datasets described in the report corresponds to:
 [regression_model.ipynb](https://github.com/bijiuni/brain_age/blob/master/Codes/regression_model.ipynb): train the neural network and save the results
 
 [regression_result.ipynb](https://github.com/bijiuni/brain_age/blob/master/Codes/regression_restore.ipynb): restore and input new data (plot the results)
+<br>
 
 ## Methodology
 
@@ -117,6 +118,7 @@ scheme of international neuroimaging data-sharing initiative (INDI) or OASIS sit
 The raw data is in ANALYZE 7.5 format or NIFTI format. The mprage images of the subjects were selected and transformed into numpy array format for further processing. All images fed into the model are T1-weighted. As the assumption of the model is that healthy individuals’ chronological ages are close to their brain ages, all brain images from individuals with autism and Alzheimer’s disease were excluded. These images, however, may be helpful in further analyzing the model’s efficiency in detecting brain-related diseases. The data information is shown below.
 
 ![Repositories](https://github.com/bijiuni/brain_age/blob/master/img/repository.JPG)
+<br>
 
 ## Sample Input and Results
 

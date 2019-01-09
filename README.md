@@ -74,13 +74,13 @@ The explanations are divided into data track and coding track
 
 ### Data Explanation
 
-The data is too large for saving locally:
-https://drive.google.com/drive/folders/1jEx7NUbMyQ1wCP6LvaiDtyj2gWeO1kT_?usp=sharing
+The raw data is connected through International Data Sharing Initiatives and OASIS brain.
+You can get access to the raw data here:
+[INDI](http://fcon_1000.projects.nitrc.org/indi/summerofsharing2012.html)
+[OASIS](https://www.oasis-brains.org/)
 
-Follow the Google drive link
-In raw data folder is the raw data collected online: in nifti or Analyze format
-In preprocessed data folder:
-The four datasets described in the report corresponds to:
+In raw data is in nifti or Analyze format
+After some preprocessing, the data are (more details in the report):
 ```
 1: data656555noxrotate
 2: data656555no|x|

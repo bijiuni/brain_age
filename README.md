@@ -1,6 +1,6 @@
 # Prediction of Individual Brain Ages from 3D MRI Datasets
 
-This is an independent project by Zach Lyu.
+This is an individual project by Zach Lyu.
 
 ## Abstract
 

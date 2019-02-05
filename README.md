@@ -74,7 +74,7 @@ The explanations are divided into data track and coding track
 
 ### Data Explanation
 
-The raw data is connected through International Data Sharing Initiatives and OASIS brain.
+The raw data is collected through International Data Sharing Initiatives and OASIS brain.
 You can get access to the raw data here:
 [INDI](http://fcon_1000.projects.nitrc.org/indi/summerofsharing2012.html)
 [OASIS](https://www.oasis-brains.org/)
